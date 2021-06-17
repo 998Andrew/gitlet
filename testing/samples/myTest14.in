@@ -1,0 +1,27 @@
+# Test for wrong command name.
+> commit
+Not in an initialized Gitlet directory.
+<<<
+> commit
+Not in an initialized Gitlet directory.
+<<<
+> log
+Not in an initialized Gitlet directory.
+<<<
+> branch
+Not in an initialized Gitlet directory.
+<<<
+> init
+<<<
+> hasfhsafhsuafhksfhkas
+No command with that name exists.
+<<<
+> ashfahuifsahuifahuis
+No command with that name exists.
+<<<
+> yayayayaya
+No command with that name exists.
+<<<
+> hehhehehee
+No command with that name exists.
+<<<

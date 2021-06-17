@@ -1,0 +1,14 @@
+# Check that adding a tracked, unchanged file has no effect.
+> init
+<<<
++ andrew.txt wug.txt
++ ihatelife.txt wug2.txt
+> add andrew.txt
+<<<
+> add ihatelife.txt
+<<<
+> commit "andrew hates life"
+<<<
+> add andrew.txt
+<<<
+I blank-status.inc

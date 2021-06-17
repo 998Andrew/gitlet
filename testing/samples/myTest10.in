@@ -1,0 +1,69 @@
+# Status with two adds
+> init
+<<<
++ andrew.txt wug.txt
+> add andrew.txt
+<<<
++ walice.txt notwug.txt
+> add walice.txt
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+andrew.txt
+walice.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+andrew.txt
+walice.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+andrew.txt
+walice.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+andrew.txt
+walice.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<

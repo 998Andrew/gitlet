@@ -1,0 +1,27 @@
+>
+Please enter a command.
+<<<
+> commit
+Not in an initialized Gitlet directory.
+<<<
+> commit
+Not in an initialized Gitlet directory.
+<<<
+> log
+Not in an initialized Gitlet directory.
+<<<
+> branch
+Not in an initialized Gitlet directory.
+<<<
+> checkout
+Not in an initialized Gitlet directory.
+<<<
+> rm
+Not in an initialized Gitlet directory.
+<<<
+> branch
+Not in an initialized Gitlet directory.
+<<<
+
+
+

@@ -1,0 +1,18 @@
+>
+Please enter a command.
+<<<
+> merge
+Not in an initialized Gitlet directory.
+<<<
+> log
+Not in an initialized Gitlet directory.
+<<<
+> global-log
+Not in an initialized Gitlet directory.
+<<<
+> rm
+Not in an initialized Gitlet directory.
+<<<
+
+
+

@@ -1,0 +1,9 @@
+# Commit with nothing to staged or removed.
+> init
+<<<
+> commit "i hate my life"
+No changes added to the commit.
+<<<
+> commit "i hate my life2"
+No changes added to the commit.
+<<<

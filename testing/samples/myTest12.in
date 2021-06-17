@@ -1,0 +1,12 @@
+# Check that commiting clears the staging area.
+> init
+<<<
++ andrew.txt wug.txt
+> add andrew.txt
+<<<
++ hi.txt wug.txt
+> add hi.txt
+<<<
+> commit "Removed hi.txt wow"
+<<<
+I blank-status.inc

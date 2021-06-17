@@ -1,0 +1,18 @@
+# Commit message with blank message
+> init
+<<<
++ andrew.txt wug.txt
+> add andrew.txt
+<<<
++ hi.txt wug2.txt
+> add hi.txt
+<<<
+> commit ""
+Please enter a commit message.
+<<<
+> commit ""
+Please enter a commit message.
+<<<
+> commit ""
+Please enter a commit message.
+<<<

@@ -1,0 +1,15 @@
+# Test for wrong command name.
+> init
+<<<
+> dskjfhd
+No command with that name exists.
+<<<
+> jajajajaja
+No command with that name exists.
+<<<
+> pop poppopop
+No command with that name exists.
+<<<
+> poooooooooop
+No command with that name exists.
+<<<

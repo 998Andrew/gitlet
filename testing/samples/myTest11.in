@@ -1,0 +1,13 @@
+# Check that adding nonexistent file gets correct error.
+> init
+<<<
+> add andrew.txt
+File does not exist.
+<<<
+> add hello.txt
+File does not exist.
+<<<
+> add myNmae.txt
+File does not exist.
+<<<
+I blank-status.inc

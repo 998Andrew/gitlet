@@ -1,0 +1,15 @@
+>
+Please enter a command.
+<<<
+> status
+Not in an initialized Gitlet directory.
+<<<
+> commit
+Not in an initialized Gitlet directory.
+<<<
+> log
+Not in an initialized Gitlet directory.
+<<<
+> find
+Not in an initialized Gitlet directory.
+<<<
